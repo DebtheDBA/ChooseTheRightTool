@@ -1,5 +1,5 @@
 # ChooseTheRightTool
-Repo for session: "Choose the Right Tool for the Job"
+Repo for session: "Choosing the Right Tool for the Job"
 
 ## Abstract:
 There’s a saying about using the right tool for the right job. After all, you don’t want to use a hammer when you need a screwdriver. We have many tools available to us to do our job as data professionals - some work better as development tools and other for admin tasks while some can handle either. So how do you decide which to use when?
