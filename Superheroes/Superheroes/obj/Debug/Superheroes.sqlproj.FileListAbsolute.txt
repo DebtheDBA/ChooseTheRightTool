@@ -1,0 +1,6 @@
+C:\GitRepo\ChoosingTheRightTool\ChoosingTheRightToolRepo\Superheroes\Superheroes\bin\Debug\Superheroes.dacpac
+C:\GitRepo\ChoosingTheRightTool\ChoosingTheRightToolRepo\Superheroes\Superheroes\bin\Debug\Superheroes.dll
+C:\GitRepo\ChoosingTheRightTool\ChoosingTheRightToolRepo\Superheroes\Superheroes\bin\Debug\Superheroes.pdb
+C:\GitRepo\ChoosingTheRightTool\ChoosingTheRightToolRepo\Superheroes\Superheroes\obj\Debug\Superheroes.sqlprojAssemblyReference.cache
+C:\GitRepo\ChoosingTheRightTool\ChoosingTheRightToolRepo\Superheroes\Superheroes\obj\Debug\Superheroes.dll
+C:\GitRepo\ChoosingTheRightTool\ChoosingTheRightToolRepo\Superheroes\Superheroes\obj\Debug\Superheroes.pdb
